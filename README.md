@@ -7,3 +7,5 @@
 ### 1.1 python basic data type
 
 **String** : "Hello World"
+
+### - 1.2 python objects
